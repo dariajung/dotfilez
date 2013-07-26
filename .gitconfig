@@ -1,0 +1,13 @@
+[user]
+    name = Daria Jung
+    email = djj2115cu@gmail.com
+
+[color]
+    diff = auto
+    status = auto
+    branch = auto
+
+[color "status"]
+    changed = yellow
+    added = green
+    untracked = red
