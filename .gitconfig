@@ -1,7 +1,13 @@
 [user]
-	name = Daria Jung
-	email = djj2115cu@gmail.com
+    name = Daria Jung
+    email = djj2115cu@gmail.com
+
+[color]
+    diff = auto
+    status = auto
+    branch = auto
+
+[core]
+	excludesfile = ~/.gitignore
 [push]
 	default = current
-[color]
-	ui = auto
