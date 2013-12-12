@@ -1,3 +1,16 @@
+" VUNDLE "
+set rtp+=~/.vim/bundle/vundle/
+call vundle#rc()
+
+" let Vundle manage Vundle
+" required! 
+Bundle 'gmarik/vundle'
+
+" Bundles "
+Bundle 'kien/rainbow_parentheses.vim'
+
+filetype plugin indent on
+
 " syntax highlighting "
 syn on
 set autoindent
